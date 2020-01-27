@@ -78,10 +78,7 @@ Create a Python package (wheel) that can be installed via pip locally.
 If you already (and only) know how to create egg packages that are installable via easy_install, this is an
 alternative.
 
-1.4 Open Questions?
 
-If you have any questions regarding this exercise please don't hesitate to get in touch with either Simon
-Steinbeiß (simon.steinbeiss@tttech.com) or Florian Schüller (florian.schueller@tttech.com)!
 
 
 

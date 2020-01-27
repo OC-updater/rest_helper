@@ -4,10 +4,10 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="rest_helper-dominik@theuerkauf.net",
+    name="rest_helper-OC-update@bild.dtx.at",
     version="1.0",
-    author="Dominik Theuerkauf",
-    author_email="dominik@theuerkauf.net",
+    author="OC-Updater",
+    author_email="OC-update@bild.dtx.at",
     description="A python devops exercise",
     long_description=long_description,
     long_description_content_type="text/markdown",
