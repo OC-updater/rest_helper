@@ -11,7 +11,7 @@ setuptools.setup(
     description="A python devops exercise",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/OC-updater/rest_helper.git",
     packages=setuptools.find_packages(),
     install_requires=[
         'configparser', 're', 'docopt', 'threading',
